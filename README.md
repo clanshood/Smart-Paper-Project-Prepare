@@ -4,8 +4,8 @@ Repo ini digunakan untuk pencatatan konsep-konsep dalam pengembangan aplikasi Sm
 Silahkan tambahkan hal-hal yang sudah dikerjakan atau masih dalam pengerjan pada poin Todo dibawh ini. Pastikan setiap point dijabarkan secara rinci pada file markdown terpisah.
 
 ## Todo
- - Layout
- - Komponent
+ - [Layout](https://github.com/clanshood/smart-paper-project-prepare/blob/master/Layout.md)
+ - Komponen
 
 
 ## Contribute:
